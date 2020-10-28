@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" //library to format  strings
 
 func main() {
 	fmt.Println("Welcome to Go!")

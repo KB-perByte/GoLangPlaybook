@@ -1,0 +1,14 @@
+// strong and staticly typed
+//strong as in type cannot be changed in runtime or statically type means variables need to declare b4 compilation
+
+//fast compile times
+//garbage collected - relatime systems
+//all bundled into one version management in runtime
+
+//3 varirable scope package level
+// i lowercase is scoped to the pkg
+// I is accessible to the outside world exported from pkg and  globally visible
+// i block scope inside a methrd
+
+// length of the variable name should decide the life of the variable
+// acronym should be upppercase
